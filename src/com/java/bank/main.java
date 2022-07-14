@@ -39,7 +39,7 @@ public class main {
         PaymentService.payment(account1,payment);
         System.out.println("Баланс на счете по номеру телефона " + account1.getPerson().getMobileNumber() + " : " + account1.getBill().getAmount());
 
-//GIT
+//GITss
 
 
 
